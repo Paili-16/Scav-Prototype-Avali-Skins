@@ -1,6 +1,6 @@
 # The System file assets for Notes.
 
-### The Player Skins (Avali):
+### The Player Skins (Avali Experiment):
 Avali, White color front skins, Black color back skins, Yellow color single stripes skins and have sprites folder can also see how is png images was.
 
 <img width="480" height="540" alt="Avali (Experiment)" src="https://github.com/user-attachments/assets/8c7bd713-8edb-4a4b-a71c-839019aa19a3" />
